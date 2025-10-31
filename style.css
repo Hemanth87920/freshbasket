@@ -261,7 +261,7 @@ header {
 }
 
 .home-banner {
-  background-image: url('./assets/bg.png');
+  background-image: url('bg.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
